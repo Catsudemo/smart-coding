@@ -20,7 +20,10 @@ Do not use a function like sum(someList), that would be cheating ;-)
 # Data structure
 numbers = [1,2,3,6]
 def sumOfListNumbers(someList):
-    # your solution
+    theSum = 0
+    for i in someList:
+        theSum = theSum + i
+    print(theSum)
 
     
 
