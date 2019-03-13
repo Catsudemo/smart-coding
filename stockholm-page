@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  @import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+  
+html, body {
+  font-family: Quicksand;
+  text-align:center;
+  min-width:260px;
+  color:#333;
+}
+#main {  
+  margin:30px auto;
+  padding:15px;
+  font-family: Quicksand;
+  font-size: 25px;
+  text-align:center;
+  border:0px solid;
+  border-radius:5px;
+  background:#eee;
+  
+}
+
+#about {
+   margin:40px auto;
+  padding:25px;
+  font-family: Quicksand;
+  font-size: 25px;
+  text-align: justify;
+  border:0px solid;
+  border-radius:5px;
+  background:#eee;
+}
+
+#pagetitle {
+   font-family: Libre Baskerville;
+  text-align:center;
+  min-width:260px;
+  color:#333;
+  
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid black;
+  background:black;
+}
+
+#img {
+  max-width: 90%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+
+#caption {
+font-family: Quicksand;
+  font-size: 15px;
+  text-align:center;
+  min-width:260px;
+  color:#fcf6e0;
+}
+  #footer {
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid black;
+  background:black;
+    text-align: center;
+    color:#fcf6e0;
+  
+
+</style>
+      <div id="main">
+        <h1 id="pagetitle" align=center> Stockholm Facts</h1>
+        <a name="home"><div> Everything you ever wanted to know about Stockholm<p></div></a>
+        <ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#stats">Stats</a></li>
+  <li><a href="#facts">Fun Facts</a></li>
+</ul>
+      <div id="img-div">
+        <img id="img" src="https://images.unsplash.com/photo-1509356843151-3e7d96241e11?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt "Stockholm panorama"></img>
+        <div id="caption">by Raphael Andres
+        <p></div>
+</div> <div id="about" style="text-align:left"><a name="about"</a><p> <h3><b>About</b></h3>
+     <p> Stockholm, the capital of Sweden, encompasses 14 islands and more than 50 bridges on an extensive Baltic Sea archipelago. The cobblestone streets and ochre-colored buildings of Gamla Stan (the old town) are home to the 13th-century Storkyrkan Cathedral, the Kungliga Slottet Royal Palace and the Nobel Museum, which focuses on the Nobel Prize. Ferries and sightseeing boats shuttle passengers between the islands.
+      <p><i>Source - <a href="https://en.wikipedia.org/wiki/Stockholm" target="_blank"> Wikipedia</a></i></p>
+         <p><a href="#home">Back to top</a></p>
+    </div>
+
+<div id="stats" style="text-align:left"><a name="stats"</a><p>
+  <h3><b> Stats </b></h3>
+  <p>
+ 
+<p>Area: 188 km²</p>
+<p>Elevation: 0 cm</p>
+<p>Population: 960,031 (2017)</p>
+<p>Local time: Wednesday 16:38</p>
+<p>Weather: 3°C, Wind S at 4 m/s, 93 % Humidity</p>
+  <p><i>Source - <a href="https://en.wikipedia.org/wiki/Stockholm" target="_blank"> Wikipedia</a></i></p>
+  
+     <p><a href="#home">Back to top</a></p>
+    
+    </div>
+  <br>
+
+<div id="facts" style="text-align:left"><a name="facts"</a><p>
+  <h3><b> Fun Facts </b></h3>
+ <p>1. Stockholm is often known as the ‘World’s Smallest Big City’ or the ‘World’s Biggest Small Town’.</p>
+
+<p>2. Stockholm’s oldest surviving building is The Riddarholmen Church, a Franciscan monastery built in 1270.</p>
+
+<p>3. In 1710, a catastrophic plague obliterated about one third of Stockholm’s population.</p>
+
+<p><p>4. The city became the venue for the award of the first Nobel Prizes, in the year 1901.</p>
+
+<p>5. Stockholm Globe Arena is currently the largest hemispherical building in the world.</p></p>
+
+<p>6. The city’s subway is also known as the world’s longest art gallery, with the majority of its stations being adorned with paintings, sculptures and mosaics.</p></p></p>
+
+<p>7. Stockholm is the second most visited city in the Nordic countries.</p>
+
+<p>8. The city is sometimes referred to as ‘Venice of the North’, thanks to its beautiful buildings and exquisite architecture, abundant open water and numerous parks.</p></p>
+
+<p>9. The total absence of heavy industry makes Stockholm one of the world’s  cleanest metropolises.</p>
+
+<p>10. The people of Stockholm are dependent on the service industry for their daily bread,  which accounts for 85% of the jobs in the city.</p>
+
+<p>11.Stockholm houses two UNESCO World Heritage sites – the Royal Palace Drottningholm and the The Woodland Cemetery.</p>
+
+<p>12. During the second half of June it barely ever gets dark in Stockholm during some weeks due to the midnight sun. </p>
+
+<p>13. A traditional and famous dish of Sweden is Swedish meatballs, served with gravy, boiled potatoes and lingonberry jam.</p></p>
+
+<p>14. Did you know what a Swedish crayfish party is? A traditional summer eating and drinking celebration in August involving boiled crayfish served with boiled potatoes and dill.</p>
+
+<p>15. Ice hockey and soccer are Sweden’s main sports, other popular sports include handball, golf, gymnastics, athletics and cross country skiing.</p>
+
+<p>16. Sweden has given the world some of the greatest pop bands and singers, including Abba, The Cardigans and Roxette.</p>
+
+<p>17. Pippi Longstocking is also Swedish.</p></p>
+
+<p>18. The astronomical lens is a Swedish invention.</p>
+
+<p>19. The world-famous discount furniture chain IKEA was founded in Sweden in 1943.</p>
+
+<p>20. Happy Hour in Sweden is called “After Work.”</p></p>
+
+<p>21. Swedes have the longest life expectancy in Europe.</p>
+
+<p><p><p>22. At the height of its empire, Sweden built a large warship The Vasa to symbolize its power. It was so big and heavy that on its maiden voyage in 1628, it sank less than a mile out of dock.</p>
+
+<p><p>23. On Easter, children dress up as witches and go trick-or-treating.</p></p>
+
+<p>24. The first ice hotel of the world was built near the village of Jukkasjärvi, Sweden.</p>
+
+<p>25. Sweden has a long and interesting history, magnificent architecture, friendly people, and stunning landscape make it one of the countries in the world one can never tire of returning to.</p>
+<p><i>Source - <a href="https://www.nordicexperience.com/know-25-fun-interesting-facts-stockholm-sweden/"  target="_blank">Nordic Experience</a></i></p>
+  <p><a href="#home">Back to top</a></p>
+    </body>
+<footer> <div id="footer"> Thanks for visiting!</div> </footer>
+ 
